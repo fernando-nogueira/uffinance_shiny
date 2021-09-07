@@ -1,5 +1,4 @@
 library(shiny)
-library(highcharter)
 library(DT)
 library(tidyquant)
 library(timetk)
